@@ -30,5 +30,4 @@ lista_nomes = ['Spider-Man', 'Iron-Man', "American Captain"]
 for i in range(len(lista_nomes)):
     print(f'{i}: {lista_nomes[i]}')
 
-# ver técnicas de iteração: https://docs.python.org/pt-br/3/tutorial/datastructures.html#tut-loopidioms
 # continuar daqui: https://docs.python.org/pt-br/3/tutorial/controlflow.html#pass-statements
