@@ -31,3 +31,4 @@ for i in range(len(lista_nomes)):
     print(f'{i}: {lista_nomes[i]}')
 
 # continuar daqui: https://docs.python.org/pt-br/3/tutorial/controlflow.html#pass-statements
+
